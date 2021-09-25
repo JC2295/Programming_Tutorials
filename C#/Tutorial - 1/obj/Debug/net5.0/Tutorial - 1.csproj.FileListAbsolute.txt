@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\bin\Debug\net5.0\Tutorial - 1.exe
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\bin\Debug\net5.0\Tutorial - 1.deps.json
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\bin\Debug\net5.0\Tutorial - 1.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\bin\Debug\net5.0\Tutorial - 1.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\bin\Debug\net5.0\Tutorial - 1.dll
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\bin\Debug\net5.0\ref\Tutorial - 1.dll
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\bin\Debug\net5.0\Tutorial - 1.pdb
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\Tutorial - 1.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\Tutorial - 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\Tutorial - 1.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\Tutorial - 1.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\Tutorial - 1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\Tutorial - 1.dll
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\ref\Tutorial - 1.dll
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\Tutorial - 1.pdb
+C:\Users\Jonathan\Desktop\Portfolio\Computer Science & Software Engineering\Dev_Portfolio\FCC_Tutorial_Projects\C#\Tutorial - 1\obj\Debug\net5.0\Tutorial - 1.genruntimeconfig.cache
